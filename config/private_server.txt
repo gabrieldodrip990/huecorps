@@ -81,7 +81,7 @@ TICK_LIMIT_MC_INIT 98
 SQL_ENABLED
 
 ## Should discord based MFA be enabled for admins? Uncomment to enable
-MFA_ENABLED
+#MFA_ENABLED
 
 ## Prefix to be added to the name of every table, older databases will require this be set to erro_
 ## Note, this does not change the table names in the database, you will have to do that yourself.
@@ -96,9 +96,6 @@ VOICE_ANNOUNCE_DIR data/voice_announcements
 
 ## Enable the demo subsystem
 DEMOS_ENABLED
-
-## Enable automatic profiling - Byond 513.1506 and newer only.
-AUTO_PROFILE
 
 ## Starlight for exterior walls and breaches. Uncomment for starlight!
 ## This is disabled by default to make testing quicker, should be enabled on production servers or testing servers messing with lighting
