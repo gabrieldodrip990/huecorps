@@ -43,5 +43,8 @@ n[i1!\\\/]+g(?:g|l+[e3]+t)=EU DOU A BUNDA PRA 2050 HOMENS DIFERENTES!
 One day while Andy was masturbating=EU DOU A BUNDA PRA 2050 HOMENS DIFERENTES!
 XEzwgBD=EU DOU A BUNDA PRA 2050 HOMENS DIFERENTES!
 
+#Regex for tyranny without the y
+tra+n+y+=BAN ME ADMINS!
+
 \b(?:https?:\/\/)?(?:www|i)?\.?(?!yogstation\.net|github\.com)\w{4,128}\.\w{2}\.?\w{0,2}\b\S*=[Link Removed]
 [^ -ÿ]+=​

@@ -8,9 +8,7 @@
 # and will override any duplicate entries in the database.									  #
 ###############################################################################################
 
+
 Gabriel_do_drip	=	Host
-ArgentinoGostoso	=	Council Member
-Cachorro11	=	Council Member
-Bruno-Asbahr	=	Council Member
-FidgetyBacchus	=	Administrator
-LittlePlayer0102	=	Administrator
+
+ 
